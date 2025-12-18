@@ -1,4 +1,4 @@
-# 👨‍💻 Anthony Johao Gonzalez Arza
+# 👨‍💻 Johao Gonzalez 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anthonyjohao&color=blue&style=flat-square" alt="Visitas" />
