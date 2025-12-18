@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Sobre Mí
-Soy un **estudiante de Ingeniería en Ciencias de la Computación**. Me apasiona resolver problemas mediante la *con Python** y transformar datos en decisiones estratégicas con **Power BI**.
+Soy un **estudiante de Ingeniería en Ciencias de la Computación**. Me apasiona resolver problemas mediante la programación con multiples lenguajes y transformar datos en decisiones estratégicas con **Power BI**.
 
 - 🌍 Vivo en: **Quito, Ecuador**.
 - 🎓 Actualmente cursando: **Ingeniería en Ciencias de la Computación**.
@@ -17,7 +17,7 @@ Soy un **estudiante de Ingeniería en Ciencias de la Computación**. Me apasiona
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Herramientas
 
 | Categoría | Herramientas |
 | :--- | :--- |
@@ -28,6 +28,6 @@ Soy un **estudiante de Ingeniería en Ciencias de la Computación**. Me apasiona
 
 ---
 
-### 📫 Contáctame
+### 📫 Contacto
 - **Email:** johao55as@gmail.com
 - **LinkedIn:** [Johao Gonzalez](https://www.linkedin.com/in/johaogonzalez7)
